@@ -15,20 +15,21 @@ This project uses a **Convolutional Neural Network (CNN)** built with TensorFlow
 ## 📂 Project Structure
 
 cat-dog-image-classification-cnn/
-├── Cats_vs_Dogs_CNN_Project.ipynb ← Main Jupyter Notebook
-├── requirements.txt ← Required Python libraries
-├── dog.jpg ← Sample image for testing
-├── README.md ← This file
-├── LICENSE ← MIT License
-└── .gitignore ← Git ignored files
+── Cats_vs_Dogs_CNN_Project.ipynb ← Main Jupyter Notebook
+── requirements.txt ← Required Python libraries
+── dog.jpg ← Sample image for testing
+── README.md ← This file
+── LICENSE ← MIT License
+── .gitignore ← Git ignored files
 
 cats_and_dogs_filtered/
-├── train/
-│   ├── cats/
-│   └── dogs/
-├── validation/
-│   ├── cats/
-│   └── dogs/
+── train/
+   ── cats/
+   ── dogs/
+   
+── validation/
+   ── cats/
+   ── dogs/
 
 🚀 How to Run
 
